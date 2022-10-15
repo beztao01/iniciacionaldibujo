@@ -1,4 +1,4 @@
-# iniciacionaldibujo
+# iniciación al dibujo
 Unos apuntes para diseñadores Industriales y multimedia
 
 lista de sitios para diseñadores industriales y multimedia
